@@ -10,3 +10,8 @@ There are 4 buttons on the right for Start, Stop, raise the tempo or to decrease
 ## Screenshot
 
 ![Screenshot](https://raw.githubusercontent.com/Abhaysworkplace/music-synthesizer/main/Screenshot%202022-08-03%20at%208.45.09%20PM.png)
+
+## Video Presentation
+
+Click on the link to view the video representation for the music Synthesizer
+https://youtu.be/ehZjadypTpI
